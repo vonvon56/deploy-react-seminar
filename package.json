@@ -41,5 +41,5 @@
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   },
-  "proxy": "https://django-deploy-seminar-pj.fly.dev/"
+  "proxy": "https://deploy-django-seminar-gs.fly.dev/"
 }
